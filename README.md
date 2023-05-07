@@ -6,4 +6,4 @@ If it has already been cloned run: ```git submodule update --init --recursive```
 
 # How to add a new submodule
 
-To add a new submodule run ```git add submodule ../<name_of_repository>```
+To add a new submodule run ```git submodule add ../<name_of_repository>.git```
