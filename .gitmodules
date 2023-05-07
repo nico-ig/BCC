@@ -1,3 +1,6 @@
 [submodule "Modelagem_PL"]
 	path = Modelagem_PL
 	url = ../Modelagem_PL.git
+[submodule "Assembly"]
+	path = Assembly
+	url = ../Assembly.git
