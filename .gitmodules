@@ -31,9 +31,6 @@
 [submodule "Lattes"]
 	path = Lattes
 	url = ../Lattes
-[submodule "Dot-files"]
-	path = Dot-files
-	url = ../Dot-files
 [submodule "Desafios-Programacao"]
 	path = Desafios-Programacao
 	url = ../Desafios-Programacao
