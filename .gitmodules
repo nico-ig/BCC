@@ -46,3 +46,6 @@
 [submodule "Saber"]
 	path = Saber
 	url = ../Saber
+[submodule "raw-socket-c"]
+	path = raw-socket-c
+	url = https://gitlab.c3sl.ufpr.br/bfsc19/raw-socket-c.git
