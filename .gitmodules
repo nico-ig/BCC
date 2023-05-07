@@ -1,51 +1,67 @@
 [submodule "Modelagem_PL"]
 	path = Modelagem_PL
 	url = ../Modelagem_PL.git
+
 [submodule "Assembly"]
 	path = Assembly
 	url = ../Assembly.git
+
 [submodule "Scripts"]
 	path = Scripts
 	url = ../Scripts.git
+
 [submodule "RU-na-pandemia"]
 	path = RU-na-pandemia
 	url = ../RU-na-pandemia.git
+
 [submodule "Pilha-Lista-Fila"]
 	path = Pilha-Lista-Fila
 	url = ../Pilha-Lista-Fila.git
+
 [submodule "FarmaAlg"]
 	path = FarmaAlg
 	url = ../FarmaAlg.git
+
 [submodule "Avl"]
 	path = Avl
 	url = ../Avl.git
+
 [submodule "Hash"]
 	path = Hash
 	url = ../Hash.git
+
 [submodule "FPGA"]
 	path = FPGA
   url = git@github.com:VRI-UFPR/FPGA.git
+
 [submodule "GPS"]
 	path = GPS
 	url = ../GPS
+
 [submodule "Lattes"]
 	path = Lattes
 	url = ../Lattes
+
 [submodule "Desafios-Programacao"]
 	path = Desafios-Programacao
 	url = ../Desafios-Programacao
+
 [submodule "Kmeans"]
 	path = Kmeans
 	url = ../Kmeans
+
 [submodule "Match3"]
 	path = Match3
 	url = ../Match3
+  
 [submodule "Poligonos"]
 	path = Poligonos
 	url = ../Poligonos
+
 [submodule "Saber"]
 	path = Saber
 	url = ../Saber
+
 [submodule "raw-socket-c"]
 	path = raw-socket-c
 	url = https://gitlab.c3sl.ufpr.br/bfsc19/raw-socket-c.git
