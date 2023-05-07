@@ -1,5 +1,5 @@
 # How to clone the repository
-* To clone the entire repository: ```git clone --recurse-submodules https://github.com/nico-ig/BCC.git```
+* To clone the entirely repository: ```git clone --recurse-submodules https://github.com/nico-ig/BCC.git```
 * To clone a specific submodule: ```git submodule update --init <name_of_the_submodule```
 * If the repository has already been cloned: ```git submodule update --init --recursive```
 
