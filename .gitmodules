@@ -65,3 +65,6 @@
 [submodule "raw-socket-c"]
 	path = raw-socket-c
 	url = https://gitlab.c3sl.ufpr.br/bfsc19/raw-socket-c.git
+[submodule "Triangulacao"]
+	path = Triangulacao
+	url = ../Triangulacao.git
