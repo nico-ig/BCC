@@ -71,3 +71,6 @@
 [submodule "UDP-Video-Streaming"]
 	path = UDP-Video-Streaming
 	url = ../UDP-Video-Streaming.git
+[submodule "Memealoc"]
+	path = Memealoc
+	url = ../Memealoc.git
