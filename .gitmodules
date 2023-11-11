@@ -68,3 +68,6 @@
 [submodule "Triangulacao"]
 	path = Triangulacao
 	url = ../Triangulacao.git
+[submodule "UDP-Video-Streaming"]
+	path = UDP-Video-Streaming
+	url = ../UDP-Video-Streaming.git
