@@ -77,3 +77,6 @@
 [submodule "Memealoc"]
 	path = Memealoc
 	url = ../Memealoc.git
+[submodule "Arduino"]
+	path = Arduino
+	url = ../Arduino.git
