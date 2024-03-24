@@ -80,3 +80,6 @@
 [submodule "Arduino"]
 	path = Arduino
 	url = ../Arduino.git
+[submodule "Java"]
+	path = Java
+	url = git@github.com:nico-ig/Java.git
