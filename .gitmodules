@@ -85,3 +85,4 @@
 [submodule "Controle-Plataforma"]
 	path = Controle-Plataforma
 	url = ../Controle-Plataforma
+	branch = master
