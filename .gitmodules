@@ -5,6 +5,7 @@
 [submodule "Assembly"]
 	path = Assembly
 	url = ../Assembly.git
+	branch = main
 
 [submodule "Scripts"]
 	path = Scripts
