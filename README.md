@@ -1,5 +1,5 @@
 # How to clone the repository
-* To clone the entirely repository: `git clone --recurse-submodules https://github.com/nico-ig/BCC.git`
+* To clone the entirely repository: `git clone --recurse-submodules git@github.com:nico-ig/BCC.git`
 * To clone a specific submodule: `git submodule update --init <name_of_the_submodule>`
 * If the repository has already been cloned: `git submodule update --init --recursive`
 
@@ -11,4 +11,3 @@
 Submodules in external clients can be accesed in the browser by it's URL.
 
 The submodules in external clients are:
-* [raw-socket-c](https://gitlab.c3sl.ufpr.br/bfsc19/raw-socket-c).
