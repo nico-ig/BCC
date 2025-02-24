@@ -86,6 +86,7 @@
 	path = Controle-Plataforma
 	url = ../Controle-Plataforma
 	branch = master
+
 [submodule "Raw-Socket"]
-	path = Raw-Socket
-	url = ../Raw-Socket.git
+	path = Raw_Socket
+	url = ../Raw_Socket.git
