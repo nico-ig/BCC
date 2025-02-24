@@ -93,3 +93,6 @@
 [submodule "backtrack"]
 	path = backtrack
 	url = ../backtrack.git
+[submodule "REDUX-V"]
+	path = REDUX-V
+	url = ../REDUX-V.git
