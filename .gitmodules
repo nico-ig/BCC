@@ -96,3 +96,6 @@
 [submodule "REDUX-V"]
 	path = REDUX-V
 	url = ../REDUX-V.git
+[submodule "Biblioteca"]
+	path = Biblioteca
+	url = ../Biblioteca.git
