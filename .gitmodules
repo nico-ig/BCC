@@ -87,15 +87,16 @@
 	url = ../Controle-Plataforma
 	branch = master
 
-[submodule "Raw-Socket"]
-	path = Raw_Socket
-	url = ../Raw_Socket.git
 [submodule "backtrack"]
 	path = backtrack
 	url = ../backtrack.git
+
 [submodule "REDUX-V"]
 	path = REDUX-V
 	url = ../REDUX-V.git
 [submodule "Biblioteca"]
 	path = Biblioteca
 	url = ../Biblioteca.git
+[submodule "Raw_Socket"]
+	path = Raw_Socket
+	url = ../Raw_Socket.git
