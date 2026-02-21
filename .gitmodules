@@ -101,3 +101,9 @@
 [submodule "Raw_Socket"]
 	path = Raw_Socket
 	url = ../Raw_Socket.git
+[submodule "Compiler-Construction"]
+	path = Compiler-Construction
+	url = ../Compiler-Construction.git
+[submodule "SDN"]
+	path = SDN
+	url = ../SDN.git
